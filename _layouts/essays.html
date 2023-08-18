@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<!-- This essays page template is for the page that list all posts in the essays folder, not how each individual notes page is generated-->
+<h2>Essays</h2>
+{% assign essays_by_year = site.essays | group_by_exp: "essay", "essay.date | date: '%Y'" | reverse %}
+{% for year in essays_by_year %}
+  <h3>{{ year.name }}</h3>
+  <ul>
+    {% assign essays_in_year = year.items | sort: 'essay.date' | reverse %}
+    {% for essay in essays_in_year %}
+      <li>
+        {{ essay.date | date: "%B %d" }} // <a href="{{ essay.url }}">{{ essay.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
