@@ -1,26 +1,8 @@
 ---
 layout: post
 title:  How to Evaluate Startup Ideas
-date:   2017-04-15 16:57:35 -0400
+date:   2021-08-22
 ---
-
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5 
-###### Heading 6
-
-**This a sentance that is bold**
-
-*This is a sentance that is italics*
-
-<ins>
-That is a sentance that is underlined
-</ins>
-
-> This is a sentance that is in blockquotes
-
 These are my notes from a talk by Kevin Hale, founder of WuFoo and former YC partner. The original video can be [found here](https://www.youtube.com/watch?v=DOtCl5PU8F0&t).
 
 Startups = Growth. What differentiates a startup from a small business is the rate at which it grows.
@@ -58,8 +40,3 @@ Besides what is laid out above, one should also spend time above tinkering with 
 
 * Threshold belief: can you even build X? This is usually not the most important belief. 
 * Miracle belief: IF we are able to build X, X will take off very quickly. In this area, success will be determined by how well you are able to do sales.
-
-Sample Image attached here
-![Memes are fun and make the world better](/assets/images/memes/meme.jpeg)
-<figcaption>This is a beautiful sunset over the mountains.</figcaption>
-
