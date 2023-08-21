@@ -1,100 +1,51 @@
 ---
 layout: post
 title: Climate Challenge - Social Capital
-date:   2021-08-22
+date:   2020-11-09
 ---
-<!-----
+*_“All courses of action are risky, so prudence is not in avoiding danger (it's impossible) but  calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth.  Develop the strength to do bold things, not the strength to suffer.” - Machiavelli, The Prince.*  
 
-Yay, no errors, warnings, or alerts!
+Hard problems deceive us by overestimating the impact of possible (known) solutions or  underestimating threat. Both can lead to a denial of reality that skews decision making, inflates  bubbles, and hinders progress. We begin by asking if there is a problem at all – if so, how is it  best articulated for possible solutions? 
 
-Conversion time: 0.974 seconds.
+We reduce the abstraction of climate change and identify a singular, specific, problem – waste.  We then explore the outcomes that possible solutions would take (reduction, processing,  elimination). We then look at the present and examine undercurrents in business, culture,  politics, and globalization to frame the context of the present decade.  
 
+Finally, we use the groundwork laid and explored above to construct the framework for selecting  an antifragile portfolio – one that is not only immune to but also benefits from exogenous  shocks. We recommend funding in both public and private markets, as a complementary  process that balances relatively quick returns (&lt;10 years) that are deployed to fund exceptional  ones (>10 years).  
+    
+** The Ontology of Climate Change **
+Climate change, like love, is an abstraction – a concept. A number and combination of observable phenomena are abstracted under this generalization, and later posited as  “problems” in need of “solutions”. The a-posteriori observation of this abstraction is singular – the increase in the earth’s temperature.  
 
-Using this Markdown file:
+Reductionist thinking in science draws discrete boundaries in domains of knowledge, which  allow us to categorize different phenomena. This categorization is often helpful, for it allows us  to bracket problems by ascribing them to specific categories or domains. The result of such  thinking helps us in problem solving, for we look for tools and methodologies in a specific  domain to solve its respective problems.  
 
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
+Such an approach is categorically wrong when thinking about climate change.  
 
-Conversion notes:
+The most important task in thinking about climate change is to identify the correct way to think  about phenomena in categories for which we don’t currently have proper language. We must  eliminate reductionist dogmas that ascribe easy chains of causation to observed phenomena.  
 
-* Docs to Markdown version 1.0β34
-* Sun Aug 20 2023 20:43:30 GMT-0700 (PDT)
-* Source doc: The Waste Problem
-* Tables are currently converted to HTML tables.
------>
+Falling prey to reductionist dogma will overdetermine observable effects and understate  inherent risk in a complex system. At worst, it can lead us to deploy capital in ways that  exacerbate the problem instead of catalysing a solution.  
 
-    _“All courses of action are risky, so prudence is not in avoiding danger (it's impossible) but  calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth.  Develop the strength to do bold things, not the strength to suffer.” - _Machiavelli_, The Prince_. 
+Science and culture devolve to dogma if we do not (or cannot) question the foundational  premise – if there is a problem at all – let alone one that can be solved. 
 
+The question, thus, is epistemic – how do we determine the existence of this problem or think  about its nature? Science is limited by its ability to measure phenomena for which there are  established degrees of measurement and fails at modelling anything at the scale of emergence  or complexity. We know more about the temperature this week in our respective cities than we  do about its impact on weather, or how it could potentially affect crop harvests in 8 months or 8  years. 
 
-    Hard problems deceive us by overestimating the impact of possible (known) solutions or  underestimating threat. Both can lead to a denial of reality that skews decision making, inflates  bubbles, and hinders progress. We begin by asking if there is a problem at all – if so, how is it  best articulated for possible solutions? 
+Moreover, uncertainty inherent to measurement, the limited availability of data, and a sample  size of one planet adds high variability, calling into question whether any type of climate  “modelling” is accurate. Our exploration reveals a very specific category of problem – measurement. Furthermore, it reveals our limitations around a certain _type _of modelling and  measurement – risk.  
 
+Over-reliance on statistical models lead to policymaking that attempts to curb foreseeable harm,  and skepticism around the validity of such measurements cite the lack of “reliable evidence”,  claiming that no action is warranted. Neither camp provides a plan of action that is exhaustive,  and both underscore the uncertainty inherent to the impact of human affairs on the planet.  
 
-    We reduce the abstraction of climate change and identify a singular, specific, problem – waste.  We then explore the outcomes that possible solutions would take (reduction, processing,  elimination). We then look at the present and examine undercurrents in business, culture,  politics, and globalization to frame the context of the present decade.  
+Thus, we frame risk pertaining to climate change along the following epistemic categories of  knowledge:  
+1. Known knowns – _we know what we know _
+2. Known unknowns – _we know what we do not know _
+3. Unknown unknowns – _we do not know what we do not know _  
 
+We frame the determination of risk in a way that is mutually exclusive and collectively  exhaustive. In the first, risk is modelled by reductionism in science. Here, we know both  empirical observations and mechanistic interpretations. For instance, we know there are more  greenhouse gases in the atmosphere because of industrialization, and how the depletion of the  ozone layer affects the temperature of the earth.  
 
-    Finally, we use the groundwork laid and explored above to construct the framework for selecting  an antifragile portfolio – one that is not only immune to but also benefits from exogenous  shocks. We recommend funding in both public and private markets, as a complementary  process that balances relatively quick returns (&lt;10 years) that are deployed to fund exceptional  ones (>10 years). 
+In the second category, we are aware of our lack of knowledge about how, when, or if melting  ice caps and elevating sea levels will eliminate coastal cities entirely. Risk is endogenous, and  difficult to model. 
 
+In the third, the risk is the greatest for we cannot articulate problem statements to capture its nature. If we could, these risks would fall in the second category. These risks have fat tailed  distributions, so what matters isn’t the hypothetical probability, but the scale of non-linear,  convex, impact. 
 
-    **The Ontology of Climate Change **
+In all instances, uncertainty may not just _underscore _the nature of possible risk but _constitute _it.  Simply put, we do not know what we do not know about climate change, it’s possible factors,  risks, effects, impacts, or solutions.  
 
+Given that we have one planet, the harm is the dose rather than the nature of the offending  substance. Our understanding of ecology and its interconnectedness with human activity is  opaque, so risk impacts increase non-linearly.  
 
-    Climate change, like love, is an abstraction – a concept. A number and combination of observable phenomena are abstracted under this generalization, and later posited as  “problems” in need of “solutions”. The a-posteriori observation of this abstraction is singular – the increase in the earth’s temperature.  
-
-
-    Reductionist thinking in science draws discrete boundaries in domains of knowledge, which  allow us to categorize different phenomena. This categorization is often helpful, for it allows us  to bracket problems by ascribing them to specific categories or domains. The result of such  thinking helps us in problem solving, for we look for tools and methodologies in a specific  domain to solve its respective problems.  
-
-
-    Such an approach is categorically wrong when thinking about climate change.  
-
-
-    The most important task in thinking about climate change is to identify the correct way to think  about phenomena in categories for which we don’t currently have proper language. We must  eliminate reductionist dogmas that ascribe easy chains of causation to observed phenomena.  
-
-
-    Falling prey to reductionist dogma will overdetermine observable effects and understate  inherent risk in a complex system. At worst, it can lead us to deploy capital in ways that  exacerbate the problem instead of catalysing a solution.  
-
-
-    Science and culture devolve to dogma if we do not (or cannot) question the foundational  premise – if there is a problem at all – let alone one that can be solved. 
-
-
-    The question, thus, is epistemic – how do we determine the existence of this problem or think  about its nature? Science is limited by its ability to measure phenomena for which there are  established degrees of measurement and fails at modelling anything at the scale of emergence  or complexity. We know more about the temperature this week in our respective cities than we  do about its impact on weather, or how it could potentially affect crop harvests in 8 months or 8  years. 
-
-
-    Moreover, uncertainty inherent to measurement, the limited availability of data, and a sample  size of one planet adds high variability, calling into question whether any type of climate  “modelling” is accurate. Our exploration reveals a very specific category of problem – measurement. Furthermore, it reveals our limitations around a certain _type _of modelling and  measurement – risk.  
-
-
-    Over-reliance on statistical models lead to policymaking that attempts to curb foreseeable harm,  and skepticism around the validity of such measurements cite the lack of “reliable evidence”,  claiming that no action is warranted. Neither camp provides a plan of action that is exhaustive,  and both underscore the uncertainty inherent to the impact of human affairs on the planet.  
-
-
-    Thus, we frame risk pertaining to climate change along the following epistemic categories of  knowledge:  
-
-
-    1) Known knowns – _we know what we know _
-
-
-    2) Known unknowns – _we know what we do not know _
-
-
-    3) Unknown unknowns – _we do not know what we do not know _
-
-
-    We frame the determination of risk in a way that is mutually exclusive and collectively  exhaustive. In the first, risk is modelled by reductionism in science. Here, we know both  empirical observations and mechanistic interpretations. For instance, we know there are more  greenhouse gases in the atmosphere because of industrialization, and how the depletion of the  ozone layer affects the temperature of the earth.  
-
-
-    In the second category, we are aware of our lack of knowledge about how, when, or if melting  ice caps and elevating sea levels will eliminate coastal cities entirely. Risk is endogenous, and  difficult to model. 
-
-
-    In the third, the risk is the greatest for we cannot articulate problem statements to capture its nature. If we could, these risks would fall in the second category. These risks have fat tailed  distributions, so what matters isn’t the hypothetical probability, but the scale of non-linear,  convex, impact. 
-
-
-    In all instances, uncertainty may not just _underscore _the nature of possible risk but _constitute _it.  Simply put, we do not know what we do not know about climate change, it’s possible factors,  risks, effects, impacts, or solutions.  
-
-
-    Given that we have one planet, the harm is the dose rather than the nature of the offending  substance. Our understanding of ecology and its interconnectedness with human activity is  opaque, so risk impacts increase non-linearly.  
-
-
-    The solution is the following: we reframe our epistemic concerns about climate change  independent of our ability to measure, model, or monitor it. Our point of origin thus begins from  <span style="text-decoration:underline;">precaution </span>– in identifying the correct course of action be in the absence of _any _reliable models.  _That _is where the money is.  
+The solution is the following: we reframe our epistemic concerns about climate change  independent of our ability to measure, model, or monitor it. Our point of origin thus begins from  <span style="text-decoration:underline;">precaution </span>– in identifying the correct course of action be in the absence of _any _reliable models.  _That _is where the money is.  
 
 
     Resource constraint implies that we need to think twice before disrupting the environment at  scale. **Our investments, then, must account for the uncertainty concerning adverse  effects of climate change as much as it does on the known effects. **
@@ -234,8 +185,7 @@ Conversion notes:
 
     The framework laid above will allow us to avoid the dogmas of reductionism, abstract out  commonalities in 1), 2), and 3), and reveal to us solutions in spaces that we may not have  traditionally thought of before. The emergent structures investigated around these frameworks  may reveal unconventional solutions – such as funding Beyond Meat to eliminate cattle farming  (hence steak consumption and thus reduction in methane). However, they will be most effective  in identifying the right problem(s) and reframing it by subjecting it to the right sets and  categories of constraints.  
 
-
-    To say so is not to understate the nature and difficulty of this Herculean task, but to recognize  that life is matter of deliberate choices as opposed to agnostic experimentation. A sample  emergent solution space for reducing waste outcomes in greenhouse gases can be found  below:
+To say so is not to understate the nature and difficulty of this Herculean task, but to recognize  that life is matter of deliberate choices as opposed to agnostic experimentation. A sample  emergent solution space for reducing waste outcomes in greenhouse gases can be found  below:
 
 
 <table>
