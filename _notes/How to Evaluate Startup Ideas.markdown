@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  How to Evaluate Startup Ideas
-date:   2021-08-22
+date:   2021-02-05
 ---
 These are my notes from a talk by Kevin Hale, founder of WuFoo and former YC partner. The original video can be [found here](https://www.youtube.com/watch?v=DOtCl5PU8F0&t).
 
@@ -12,12 +12,12 @@ Startups solve problems. These solutions are often non-obvious. It helps if you 
 A startup idea is not an exercise in agnostic experimentation. It is better to think of a startup idea as a hypothesis about _why_ your company will grow very quickly. To test a hypothesis, you need three things: problem, solution, and insight. 
 
 1. **Problem**: these are the initial conditions that will allow your startup to grow quickly. A framework for evaluating these initial conditions is to focus on problems which are:
-    1. **Popular**: Usually 1MM+ users in the market 
-    2. **Growing**: the market should be growing 20%+ YoY
-    3. **Urgent**: it’s a pressing problem _right now_  
-    4. **Expensive**: solve a problem cheaply, and charge a premium. 
-    5. **Mandatory**: mandatory problems will usually have inelastic demand curves. The possibility of charging premiums will be higher than usual.
-    6. **Frequent**: if the problem is recurring, you can profit by solving either each iteration, or eliminating it permanently 
+   - **Popular**: Usually 1MM+ users in the market 
+   - **Growing**: the market should be growing 20%+ YoY
+   - **Urgent**: it’s a pressing problem _right now_  
+   - **Expensive**: solve a problem cheaply, and charge a premium. 
+   - **Mandatory**: mandatory problems will usually have inelastic demand curves. The possibility of charging premiums will be higher than usual.
+   - **Frequent**: if the problem is recurring, you can profit by solving either each iteration, or eliminating it permanently 
 2. **Solution**: a good solution often requires your customers to “convert”. To convert customers is to change their behaviour. This needs motivation, ability, and trigger, usually all at once for the conversion to take place. This is also a bad place to _start_ your thinking, and founders often end up suffering from SISP - solution in search of a problem. Ask yourself: what is the experiment you’re running which will allow it to grow quickly?
 3. **Insight**: _why_ will your experiment end up being successful? In other words, what do you know that others don’t? 
     *  Why will this solution work?
