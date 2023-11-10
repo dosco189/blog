@@ -3,8 +3,11 @@ layout: page
 title: Bookshelf
 permalink: /shelf
 ---
-I follow Umberto Eco's advise on using a library as a working tool, not as a storage unit. This is what is currently on my bookshelf. 
+These are some of the books I have read or intend to read at some point in the future. This collection is closer to an antilibrary than it is to a library. What is unread outnumbers what is read, as what is unknown presently outweighs what is known. 
 
+They reflect some of my intellectual interests - which range from philosophy and finance to poetry and history. I think a good book is one that escapes categorization and is “n of 1”. Usually it is also one that reframes, sharpens, or defines ideas. 
+
+At some point I’ll try to build a project to extract titles from the image and list them here as text.
 
 <div type="flex">
 </div>
