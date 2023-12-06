@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bookshelf
-permalink: /shelf
+permalink: /shelf/
 ---
 These are some of the books I have read or intend to read at some point in the future. This collection is closer to an antilibrary than it is to a library. What is unread outnumbers what is read, as what is unknown presently outweighs what is known. 
 
