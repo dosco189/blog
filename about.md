@@ -3,8 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+<!-- This page needs to be updateed -->
 
-<h2 font-<h2 style="color: #ff0000;">for HUMANS</h2>
+TO BE UDPATED
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
