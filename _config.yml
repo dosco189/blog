@@ -43,12 +43,12 @@ header_pages:
 collections:
   essays:
     output: true
-    permalink: /essays/:title
+    permalink: /essays/:title/
   notes:
     output: true
-    permalink: /notes/:title
+    permalink: /notes/:title/
 
-favicon: "/assets/favicon.ico"
+favicon: "/assets/favicon.ico/"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
