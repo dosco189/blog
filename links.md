@@ -19,4 +19,5 @@ There are a number of ideas and concepts I've picked up across the internet - fr
 * [The Logic of Envy](https://www.robkhenderson.com/p/the-logic-of-envy)
 * [On the Use and Abuse of History for Life](https://la.utexas.edu/users/hcleaver/330T/350kPEENietzscheAbuseTableAll.pdf)
 * [The Cactus and the Weasel](https://www.ribbonfarm.com/2014/02/20/the-cactus-and-the-weasel/)
+* [The pmarca blog archives](https://a16z.com/wp-content/uploads/2021/08/The-pmarca-Blog-Archives.pdf)
 
