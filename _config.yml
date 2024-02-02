@@ -49,6 +49,8 @@ collections:
     permalink: /notes/:title/
 
 favicon: "/assets/favicon.ico"
+# Google Analytics
+google_analytics: G-WMG4JHRTVE
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
