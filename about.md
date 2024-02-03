@@ -6,15 +6,7 @@ permalink: /about/
 <!-- This page needs to be updateed -->
 
 
-I'm glad you felt the need to know more. 
-
-Test 2
-
-Something else to see if things break
-
-NEW FUCKING TEST
-
-time 3
+Updated test. 
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
