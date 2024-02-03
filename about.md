@@ -24,6 +24,8 @@ Something else to see if things break
 
 NEW FUCKING TEST
 
+time 3
+
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
