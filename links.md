@@ -21,6 +21,7 @@ This is a collection of ideas that have meaningfully shaped the way I think abou
 * [The Cactus and the Weasel](https://www.ribbonfarm.com/2014/02/20/the-cactus-and-the-weasel/)
 * [The pmarca blog archives](https://a16z.com/wp-content/uploads/2021/08/The-pmarca-Blog-Archives.pdf)
 * [Looking for Alice, Henrik Karlson](https://www.henrikkarlsson.xyz/p/looking-for-alice)
+* [The Myth of Sisyphus, Albert Camus](https://dbanach.com/sisyphus.htm)
 
 An Ask:
 I am always looking for good papers and essays to read, so if you have any recommendations, please send them my way.
