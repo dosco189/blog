@@ -4,6 +4,7 @@ title: Bookshelf
 permalink: /shelf/
 ---
 
+<! –– 
 <div class="quote">
 “Of the many ideals which in youth gave life a meaning and radiance missing from the chilly perspectives of middle age, one at least has remained with me as bright and satisfying as ever before - the shameless worship of heroes. In an age that would level everything and reverence nothing, I take my stand with Victorian Carlyle, and light my candles, like Mirandola before Plato’s image, at the shrines of great men.”
 <div align="right"> Will Durant, The Greatest Minds and Ideas of All Time</div>
@@ -26,3 +27,5 @@ This is what is currently on my bookshelf. At some point in the future I'll work
 <div class="image-container" align="center">
 <a href="https://ibb.co/Rjm0Gdv"><img src="https://i.ibb.co/xF0jKdC/Bookshelf.png" alt="Bookshelf" border="0"></a>
 </div>
+
+and the comment closes with ––>
