@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bookshelf
+title: bookshelf
 permalink: /shelf/
 ---
 
