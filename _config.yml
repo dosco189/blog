@@ -38,6 +38,7 @@ header_pages:
   - archive.md
   - links.md
   - quotes.html
+  - writing.html
 
 collections:
   essays:
