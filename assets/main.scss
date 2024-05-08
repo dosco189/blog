@@ -1,0 +1,77 @@
+---
+---
+
+@import "minima";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
+
+body {
+    background-color: rgba(0, 0, 0, 0.95);
+    color:whitesmoke;
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+}
+
+.site-header {
+    background-color: whitesmoke;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    border-top: none;
+    border-bottom: none;
+    min-height: $spacing-unit * 1.865;
+    color: black;
+    // Positioning context for the mobile navigation icon
+    position: relative;
+    font-family: 'Inter', sans-serif;
+  }
+
+footer{
+    padding: 15px;
+}
+
+
+  .a {
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition for hover effects */
+}
+
+a:hover, a:focus {
+    background-color: antiquewhite; /* Background color on hover/focus */
+    color: #000; /* Change text color on hover/focus if needed for better readability */
+    text-decoration: none; /* Optional: Keeps underline from appearing on hover */
+}
+
+.flex-container-image {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+}
+
+/* Remove default box and border from blockquotes */
+blockquote {
+    padding: 0.8vh 0.8vw;
+    margin: 0;
+    color: #000000;
+    background-color: #f9f9f9;
+    border-left: 4px solid #ccc;
+}
+
+.sharing-button {
+    margin: 2px;
+    padding: 0.6vh 0.6vw;
+    border: 1px solid #000000;
+    display: inline;
+}
+
+/* WORK // RESUME work-page-styling */
+
+.work-page-styling {
+    font-family: Helvetica;
+    padding: 8px;
+}
+
+.quote {padding: 0.8vh 0.8vw;
+        margin: 0;
+        color: #000000;
+        background-color: #f9f9f9;
+        border-left: 4px solid #ccc;
+    }
