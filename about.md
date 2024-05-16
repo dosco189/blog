@@ -4,8 +4,12 @@ title: about
 permalink: /about/
 ---
 
-Insert catchy opener here to get legitimacy.
+catchy opener.
 
-Insert more details about the present.
+some stuff about what I do now
 
-Add some flavor from the past.
+
+some stuff about what I did in the past
+
+
+other cool stuff 
