@@ -13,9 +13,7 @@ permalink: /shelf/
 
 I believe in two kinds of knowledge - formal knowledge and visceral knowledge. 
 
-Formal knowledge is acquired from someone else's formalized understanding of the world - and is often accessible through books, papers, blogs, podcasts, or other forms of media. Visceral knowledge on the other hand is acquired from direct engagement with reality - and often comes at the cost of intellectual, emotional, or even physical pain. Both are necessary.
-
-There are some souls brave enough to take the visceral knowledge of their lives and formalize it - they are my heroes. I believe there is much to learn from them - for what they have to say will likely survive the future, precisely because it has <a href="https://en.wikipedia.org/wiki/Lindy_effect">survived the past</a>.
+Formal knowledge is acquired from someone else's formalized understanding of the world - and is often accessible through books, papers, blogs, podcasts, or other forms of media. Visceral knowledge on the other hand is acquired from direct engagement with reality - and often comes at the cost of intellectual, emotional, or even physical pain. I believe both to be necessary, and while experience will teach me many things.
 
 What is in my possession then is much closer to an <a href="https://en.wikipedia.org/wiki/Antilibrary">antilibrary</a> than it is to a library. Books unread outnumber the books read - as what is unknown surpasses whatever little is known. I am always hunting for ideas that endure the test of time - and a litmus test I’ve found useful is whether the ideas in a book are applicable beyond the narrow scope of their respective “domains” - from philosophy and finance to startups and poetry. If you have any recommendations or would like to chat about some of these ideas - <a href="mailto:ag@arthgupta.com">please shoot me an email</a>!
 

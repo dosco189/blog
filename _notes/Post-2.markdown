@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Notes: The Mom Test"
+title: "Book: The Mom Test"
 date:   2023-08-06 16:57:35 -0400
 tags: apple orange
 ---
-
-
 **Introduction**
 
 * Learning is an exercise in **Excavation** = mining for what is there but buried. The truth is down there, but is fragile. 
