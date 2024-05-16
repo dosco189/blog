@@ -3,18 +3,9 @@ layout: page
 title: about
 permalink: /about/
 ---
-<!-- This page needs to be updateed -->
 
+Insert catchy opener here to get legitimacy.
 
-Updated test. 
+Insert more details about the present.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Add some flavor from the past.
