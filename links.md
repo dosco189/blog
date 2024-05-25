@@ -18,7 +18,7 @@ This is an evolving collection of papers, websites, blogs, videos, and other art
 * [What is Strategy? Michael Porter](https://fermatslibrary.com/s/what-is-strategy)
 * [What Theory is Not, Theorizing Is, Karl E. Weick](https://www.jstor.org/stable/2393789)
 
-### Blogs
+### Essays
 * [Market Research, Wireframing, and Design, Balaji Srinivasan](https://www.samvitjain.com/blog/assets/links/startups-idea-execution-market.pdf)
 * [Cities and Ambition, Paul Graham](http://paulgraham.com/cities.html)
 * [Luxury Beliefs are Status Symbols, Rob Henderson](https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for)
@@ -31,10 +31,9 @@ This is an evolving collection of papers, websites, blogs, videos, and other art
 * [The Cactus and the Weasel, Venkatesh Rao](https://www.ribbonfarm.com/2014/02/20/the-cactus-and-the-weasel/)
 * [The pmarca blog archives, Marc Andressen ](https://a16z.com/wp-content/uploads/2021/08/The-pmarca-Blog-Archives.pdf)
 * [Notebooks, Cosma Shalizi](http://bactra.org/notebooks/)
-
-### Literature 
 * [The Myth of Sisyphus, Albert Camus](https://dbanach.com/sisyphus.htm)
 * [Story of Your Life, Ted Chiang](https://raley.english.ucsb.edu/wp-content/uploads/Reading/Chiang-story.pdf)- short story that inspired the movie [Arrival](https://www.youtube.com/watch?v=tFMo3UJ4B4g)
+* [The Inner Ring, C. S. Lewis](https://www.lewissociety.org/innerring/)
 
 ### Talks / Lectures / Videos 
 * [Science and the Taboo of psi, Dean Radin](https://www.youtube.com/watch?v=qw_O9Qiwqew)
