@@ -34,8 +34,7 @@ plugins:
 
 #This is the section that will change which items will be included in the navigation menu. 
 header_pages:
-  - about.md
-  - ideas.html
+ -
 
 collections:
   essays:

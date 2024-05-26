@@ -40,7 +40,9 @@ ul, ol, dl, figure,
   margin-bottom: $spacing-unit / 2;
 }
 
-
+h2 {
+  margin-bottom: $spacing-unit / 5; // Adjust this value as needed
+}
 
 /**
  * `main` element
@@ -109,7 +111,7 @@ a {
   font-weight: 350;
 
   &:visited {
-    color: darken(rgb(75 189 255), 5%);
+    color: darken(rgb(2, 23, 255), 5%);
   }
 
   &:hover {

@@ -44,6 +44,7 @@ a:hover, a:focus {
     align-items: center;
 }
 
+
 /* Remove default box and border from blockquotes */
 blockquote {
     padding: 0.8vh 0.8vw;
@@ -73,3 +74,33 @@ blockquote {
         background-color: #f9f9f9;
         border-left: 4px solid #ccc;
     }
+
+/* Styling for the twitter sharing button */
+.sharing-button {
+    display: inline-flex;
+    background-color: #ffffff; /* Initial background color */
+    color: black; /* Initial text color */
+    padding: 5px 15px; /* Adjust padding for a smaller button */
+    border-radius: 7px; /* Rounded corners */
+    text-align: center;
+    transition: background-color 0.3s, color 0.3s;
+    border: 1px solid #a6a6a6; /* Optional: add a border for better visibility */
+    margin: 10px 0; /* Space around the button */
+}
+
+.sharing-button a {
+    text-decoration: none;
+    color: inherit; /* Inherit text color from parent */
+    display: inherit; /* Make the link cover the entire div */
+    height: 100%;
+    width: 100%;
+}
+
+.sharing-button:hover {
+    background-color: #000000; /* Change background color on hover */
+    color: white; /* Change text color on hover */
+}
+
+.sharing-button:hover a {
+    color: white; /* Change link text color on hover */
+}
