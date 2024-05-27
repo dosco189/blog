@@ -7,7 +7,7 @@ permalink: /shelf/
 Currently Reading: [The Measure of Reality, Alfred W. Crosby](https://www.amazon.com/Measure-Reality-Quantification-Western-1250-1600/dp/0521639905)
 <br>
 
-Inspired by [several](https://patrickcollison.com/bookshelf) internet bookshelfs, this is a list of books in my library. 
+Inspired by [several](https://patrickcollison.com/bookshelf) [internet]  [bookshelfs], this is a list of books in my library. 
 
 
 
