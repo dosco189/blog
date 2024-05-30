@@ -6,6 +6,9 @@ permalink: /links/
 
 This is an evolving collection of papers, websites, blogs, videos, and other artefacts of knowledge that have challenged, clarified, or provoked my thinking.
 
+<div class="quote" >An Ask: I'd love to read the blogs, papers, videos, or books that have had a major impact in the way you see the world. If you have any recommendations, please do send them <a href="mailto:arthgupta7@gmail.com?subject=Recommendations">my way</a>.
+</div>
+
 ### Papers
 * [The Mundanity of Excellence, Daniel F. Chambliss](https://academics.hamilton.edu/documents/themundanityofexcellence.pdf)
 * [Schopenhauer as educator, Nietzsche](https://la.utexas.edu/users/hcleaver/330T/350kPEENietzscheSchopenTable.pdf)
@@ -39,6 +42,3 @@ This is an evolving collection of papers, websites, blogs, videos, and other art
 * [Science and the Taboo of psi, Dean Radin](https://www.youtube.com/watch?v=qw_O9Qiwqew)
 * [Human Behavioral Biology, Robert Sapolsky](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL150326949691B199)
 * [Marcus Aurelius' Meditations: The Stoic Ideal, Michael Sugrue](https://www.youtube.com/watch?v=Auuk1y4DRgk&t)
-
-<div class="quote" >An Ask: I'd love to read the blogs, papers, videos, or books that have had a major impact in the way you see the world. If you have any recommendations, please do send them <a href="mailto:arthgupta7@gmail.com?subject=Recommendations">my way</a>.
-</div>
