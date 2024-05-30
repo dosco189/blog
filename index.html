@@ -3,18 +3,18 @@ layout: home
 ---
 
 <p style="color: red;">
-    [This is a draft website - content will go live on My 30 9:00 EST]
+    [This is a draft website - content will update shortly. 
 </p>
 
-<p>Hello! This website is somewhere between a blog and a notebook. In it I attempt to capture evolving ideas, notes, and bookmarks that capture my curiosities. You can learn more <a href="{{ site.baseurl }}/about/">about me here</a> or browse some <a href="/links/">links</a> I find interesting. I enjoy making and meeting friends on the internet - so if you'd like to grab a coffee in Toronto or over Zoom, please <a href="mailto:arthgupta7@gmail.com">reach out. This website is a work in progress, so please subcribe</a></p>
+<p>Hello! This website is somewhere between a blog and a notebook. In it I attempt to capture evolving ideas, notes, and bookmarks that capture my curiosities. You can learn more <a href="{{ site.baseurl }}/about/">about me here</a> or browse some <a href="/links/">links</a> I find interesting. I enjoy making and meeting friends on the internet - so if you'd like to grab a coffee in Toronto or over Zoom, please <a href="mailto:arthgupta7@gmail.com">reach out</a>.</p>
 
 <h2>evergreen</h2>
 <ul>
     <li><a href="/links/">links</a> // papers, blogs, and videos</li>
     <li><a href="/quotes/">quotable</a> // quotes, poems, and words</li>
     <li><a href="/about/">about</a> // if you're curious</li>
-
 </ul>
+
 <h2>writing</h2>
 {% assign essays_posts = site.essays | sort: 'date' | reverse %}
 {% for post in essays_posts %}
@@ -32,3 +32,7 @@ layout: home
     <a href="{{ post.url }}">{{ post.title }} </a>// {{ post.date | date: "%m.%d.%y" }}</a>
     </li>
 {% endfor %}
+
+<div style="position: absolute; bottom: 0; width: 100%;">
+    <iframe src="https://arthgupta.substack.com/embed" style="border:1px solid #EEE; background:white;" width="100%" frameborder="0" scrolling="no"></iframe>
+</div>
