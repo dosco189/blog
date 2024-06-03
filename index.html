@@ -2,11 +2,7 @@
 layout: home
 ---
 
-<p style="color: red;">
-    [This is a draft website - content will update shortly. 
-</p>
-
-<p>Hello! This website is somewhere between a blog and a notebook. In it I attempt to capture evolving ideas, notes, and bookmarks that capture my curiosities. You can learn more <a href="{{ site.baseurl }}/about/">about me here</a> or browse some <a href="/links/">links I find interesting</a>. I enjoy making and meeting friends on the internet - so if you'd like to grab a coffee or chat, please <a href="mailto:arthgupta7@gmail.com">reach out</a>.</p>
+<p>Hello! This website is somewhere between a blog and a notebook. In it I attempt to capture evolving ideas, notes, and bookmarks that capture my curiosities. You can browse some <a href="/links/">stuff I find interesting</a> or learn more <a href="{{ site.baseurl }}/about/">about me here</a>. I enjoy making and meeting friends on the internet - so if you'd like to chat, please <a href="mailto:arthgupta7@gmail.com">reach out</a>.</p>
 
 <h2>evergreen</h2>
 <ul>
@@ -24,15 +20,20 @@ layout: home
     </li>
 {% endfor %}
 <br>
-<h2>notes</h2>
-{% assign notes_posts = site.notes | sort: 'date' | reverse %}
-{% for post in notes_posts %}
-    {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
-    <li>
-    <a href="{{ post.url }}">{{ post.title }} </a>// {{ post.date | date: "%m.%d.%y" }}</a>
-    </li>
-{% endfor %}
+
+<!-- Content to render out the notes section of the website
+    
+    <h2>notes</h2>
+    {% assign notes_posts = site.notes | sort: 'date' | reverse %}
+    {% for post in notes_posts %}
+        {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
+        <li>
+        <a href="{{ post.url }}">{{ post.title }} </a>// {{ post.date | date: "%m.%d.%y" }}</a>
+        </li>
+    {% endfor %}
+-->
 
 <br><br><br><br>
 Subcribe to keep in touch!
+<br><br>
 <iframe src="https://arthgupta.substack.com/embed" style="border:1px solid #EEE; background:white;" width="100%" frameborder="0" scrolling="no"></iframe>

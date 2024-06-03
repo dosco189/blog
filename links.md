@@ -20,6 +20,8 @@ This is an evolving collection of papers, websites, blogs, videos, and other art
 * [The Uncanny Valley, Masahiro Mori](https://fermatslibrary.com/s/the-uncanny-valley)
 * [What is Strategy? Michael Porter](https://fermatslibrary.com/s/what-is-strategy)
 * [What Theory is Not, Theorizing Is, Karl E. Weick](https://www.jstor.org/stable/2393789)
+* [Readings: The Political Economy of Education](https://la.utexas.edu/users/hcleaver/330T/350kPEEreadings.html)
+* [On Learning and the Learned, Arthur Schopenhauer](https://la.utexas.edu/users/hcleaver/330T/350kPEESchopenLearningTable.pdf)
 
 ### Essays
 * [Market Research, Wireframing, and Design, Balaji Srinivasan](https://www.samvitjain.com/blog/assets/links/startups-idea-execution-market.pdf)
