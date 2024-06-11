@@ -4,7 +4,7 @@ title: links
 permalink: /links/
 ---
 
-This is an evolving collection of papers, websites, blogs, videos, and other artefacts of knowledge that have challenged, clarified, or provoked my thinking.
+(WIP) This is an evolving collection of papers, websites, blogs, videos, and other artefacts of knowledge that have challenged, clarified, or provoked my thinking. 
 
 <div class="quote" >An Ask: I'd love to read the blogs, papers, videos, or books that have had a major impact in the way you see the world. If you have any recommendations, please do send them <a href="mailto:arthgupta7@gmail.com?subject=Recommendations">my way</a>.
 </div>
@@ -22,6 +22,7 @@ This is an evolving collection of papers, websites, blogs, videos, and other art
 * [What Theory is Not, Theorizing Is, Karl E. Weick](https://www.jstor.org/stable/2393789)
 * [Readings: The Political Economy of Education](https://la.utexas.edu/users/hcleaver/330T/350kPEEreadings.html)
 * [On Learning and the Learned, Arthur Schopenhauer](https://la.utexas.edu/users/hcleaver/330T/350kPEESchopenLearningTable.pdf)
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
 ### Essays
 * [Market Research, Wireframing, and Design, Balaji Srinivasan](https://www.samvitjain.com/blog/assets/links/startups-idea-execution-market.pdf)
