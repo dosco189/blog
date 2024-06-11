@@ -9,7 +9,7 @@ Competition is a dogma that infects the way we think about the world.
 
 We learn to compete at an early age because much of life and self-esteem rely on its results. Legible rankings of achievement provide clear signals of value, but easily obscure a more important consideration – whether what we’re getting good at is worth doing.
 
-While competition serves as a proxy for excellence by providing legible rankings, it also distorts the illegible, qualitatively distinct phenomena that produce it.
+While competition serves as a proxy for excellence by providing legible rankings of value, it also distorts the illegible, qualitatively distinct phenomena that produce it.
 
 **Competition as Legibility**
 
@@ -30,13 +30,13 @@ In an illuminating ethnographic study, Chambliss chronicles the journey of swimm
   <small>Michael Phelps, winner of 23 Olympic Golds<a href="https://olympics.com/en/news/michael-phelps-olympic-medals-record-how-many-gold-swimmer-world-record"> Source</a></small>
 </div>
 
-Specifically, excellence (defined as consistently superior performance) is a byproduct of qualitative rather than quantitative differentiation. 
+Specifically, excellence (defined as consistently superior performance) is a **byproduct of qualitative rather than quantitative differentiation**. 
 
 In other words, what looks like exceptional performance is not a byproduct of someone doing more of the same thing, but of doing _different_ things - in making subtle yet profound changes to technique, discipline, and attitude. We measure athletic performance in swimming largely on the basis of speed - but legible improvements in speed are downstream of diet, training regimen, attitude, and of all the little details that need to change before a meaningful difference in speed is observed. 
 
 These qualitative changes - at the level of the small details such as the size of the splash when a swimmer enters the water, the angle with which they pull their arms, or the attitude with which they show up to practice - compound over time to create a gulf between levels of performance.
 
-For example, diver [Greg Louganis](https://en.wikipedia.org/wiki/Greg_Louganis) - who won two olympic gold medals in 1984 practiced only 3 hours each day - not a long time - divided up into two or three sessions. But, during each session, he tried to do every dive perfectly. Louganis was never sloppy in practice so was never sloppy in meets. 
+For example, diver [Greg Louganis](https://en.wikipedia.org/wiki/Greg_Louganis) - who won two olympic gold medals in 1984 practiced only 3 hours each day - not a long time - divided up into two or three sessions. But during each session he tried to do every dive perfectly. Louganis was never sloppy in practice so was never sloppy in meets. 
 
 This is in stark contrast to how we conventionally conceive of excellence or ‘outlier achievement’ - as a byproduct of “talent”. But talent as an explanation for success fails on conceptual grounds - it mystifies excellence rather than explain it. Outsiders who witness a complete performance are unable to distinguish between the specific mechanisms of cause and effect, which are bundled together as ‘talent’ to satisfy our casual curiosities. 
 
@@ -44,13 +44,13 @@ Simply put, excellence emerges when differences in kind are reframed within a sp
 
 Chambliss goes on to argue that the very conception of swimming as a single ‘world’ is inaccurate - it is better to think of the sport as containing ‘multiple worlds’ - a horizontal rather than a vertical differentiation of the sport. Each of these worlds is qualitatively distinct - with its own patterns of conduct, shared set of values, archetypes of powerful people, and dominant athletes. 
 
-In some worlds, athletes are trying to have fun, in others, they are trying to escape their parents or add a bullet point to their high school resume. Some are trying to merely stay fit while others are trying to win the Olympic medal. Switching worlds, or more precisely - switching context - can be a major step towards excellence, for it is what circumscribes the details that matter. 
+In some worlds athletes are trying to have fun and in others, trying to escape their parents or add a bullet point to their resume. Some are trying to merely stay fit while others are trying to win at the Olympics. Switching worlds, or more precisely - switching context - can be a major step towards excellence, for it is what circumscribes the details that matter. In fact - there are is class of illegible, qualitative details that will *only* be visible upon switching contexts, and cannot be observed or examined otherwise. 
 
 Elite athletes improve on legible dimensions after making illegible, qualitatively distinct changes to their technique, attitude, discipline, and context. This is a powerful insight that extends beyond sport. 
 
 **In Life**
 
-Competition forces us to evaluate performance along a shared frame of reference - every athlete in a swimming meet is evaluated on ‘speed’, as opposed to say the beauty of their technique or set of personal values. Not to say that those details don’t matter - but rather the opposite - they are the details we miss when we reduce the evaluation of performance to a singular dimension.
+Competition forces us to evaluate performance along a shared frame of reference - every athlete in a swimming meet is evaluated on ‘speed’, as opposed to say the beauty of their technique or set of personal values. Not to say that those details don’t matter - but rather the opposite - they are precisely the details we miss when we reduce the evaluation of performance to a singular dimension.
 
 Competition makes us believe we live in a world with many ways to lose and a few ways to win, whereas the truth is largely the opposite - there are many ways to win and a few ways to lose. Success defined on the basis of narrow metrics lets us know where we stand on the totem pole of achievement, but this definition fails to inform which totem poles are worth climbing. 
 
@@ -58,7 +58,7 @@ Instead of trying to become the only, we narrow our ambitions to strive for mere
 
 If excellence comes from focusing on the right details, the question then is - how do we identify the right details? How do we identify what to work on? 
 
-These details emerge largely from direct immersion in a context - encapsulating everything from mental attitude, technique, and discipline, to a literal change in environment (say moving cities). One simple way to achieve your goals is to change the environment rather than change yourself. 
+These details emerge largely from direct immersion in a context - encapsulating everything from mental attitude, technique, and discipline, to a literal change in environment (say moving cities). One simple way to achieve your goals is to change your environment rather than change yourself. 
 
 This explains why the dominant advice for individuals trying to succeed in a given industry is to move to a city of that industry. For finance, it’s New York; for startups, it’s SF; for film, it’s LA etc. 
 
@@ -68,9 +68,9 @@ Counterintuitively, this suggests that simply “working hard” is generally ba
 
 In order to succeed then - one need not necessarily strategize all the way through to the endgame - one merely needs to a) define what success looks like, and b) immerse oneself in the context that is most likely to facilitate that success. 
 
-In other words - if there are levels to the “game” - focusing on the next step is not only efficient - but all there is. The details will emerge and evolve as one switches context - and one has to be comfortable in being able to rethink the world from first principles all over again.
+In other words - if there are levels to the “game” - focusing on the next step is not only efficient - but all there is. The details will emerge and evolve as one switches context - and one has to become comfortable in being able to rethink the world from first principles in a new environment. What got you here won't necessarily help you in identifying where to go next. 
 
-**In Finance**
+**In Investing**
 
 Allocators in pursuit of alpha are not simply implementing “better” versions of existing strategies. They are pursuing strategies that are differentiated and distinct. 
 
@@ -80,11 +80,13 @@ Similarly, investors like Ray Dalio and Bill Ackman produce returns by operating
 
 Meanwhile, Ken Griffin’s Citadel is situated in the context of quantitative investing - leveraging advanced mathematical models and cutting-edge technology, identifying patterns and inefficiencies that can be exploited for profit.
 
+VC's are situated in the combined context of people and technologies - they make many small investments - only one of which needs to produce outlier returns. 99 out of a 100 investments could go to zero - but it doesn't matter because the one that may work out will generate returns to compensate for the entire portfolio many times over. 
+
 In each case, investors have achieved excellence not by competing head-on with others using the same strategies, but by carving out their unique contexts and focusing on the specific details that matter most _to them_. They have embraced the mundanity of excellence – the unglamorous but essential work of mastering their craft and finding ways to differentiate themselves rather than compete for what is already done.
 
 The legible view of investment performance comes after an illegible process of thinking, tinkering, and investing has taken place. Even within a legibly defined category or process - say quantitative investing - the minutiae and details of each strategy are qualitatively distinct. This is why merely copying an investor’s approach or style does not work - one has to make direct contact with reality. Sure, a discipline, method, or style - can serve as a valuable starting point of inquiry - but one has to unpack the invisible and illegible details through good old trial and error. 
 
-**In Business** 
+**In Startups and Business** 
 
 Thiel’s edict - “competition is for losers” - captures the essence of this idea.  
 
@@ -128,7 +130,7 @@ When thinking about a new product that RedBull could launch - a high energy snac
   <small>A potential product (generating using DallE)</small>
 </div><br>
 
-In conducting ethnographic research about consumer behavior - an important insight that emerges is that consumers do not make decisions based on an extensive analysis of all “competitors” before making a purchase decision. Instead, their situated context - both physical and digital - situates them within a finite ‘consideration set’ of potential options that they choose from. What is loved by one consumer may not even be a potential option for another. It takes work to make a product speak to someone. 
+In conducting ethnographic research about consumer behavior - an important insight that emerges often is that consumers do not make decisions based on an extensive analysis of all “competitors” before making a purchase. Instead, their situated context - both physical and digital - places them within a finite ‘consideration set’ of potential options that they choose from. What is loved by one consumer may not even be a potential option for another. It takes work to make a product speak to someone. 
 
 Ultimately, it is the illegible truths that make a product or a business successful. These truths are a firm’s secrets - mundane ideas that when put together have the potential to create enormous value. 
 
@@ -138,14 +140,16 @@ The desire for legibility runs deep and is a significant source of anxiety for i
 
 Competition soothes these anxieties by establishing shared frames of reference - but fails to address the more profound questions of what may ultimately be more valuable. It can effectively answer where you are, but cannot inform what is to be done. 
 
-Since excellence is a byproduct of qualitative differentiation, it is perhaps better to relinquish the security provided by competitive validation and embrace the illegible process of directly trying to figure things out. This is why doing is the most effective form of learning - one is forced to confront the details.
+Since excellence is a byproduct of qualitative differentiation, it is perhaps better to relinquish the security provided by competitive validation and embrace the illegible process of directly trying to figure things out. This is why doing is the most effective form of learning - one is forced to directly confront the illegible details.
 
-If competition is for losers and excellence is mundane - we are left with a challenge that is as strategic as it is existential: identifying the details that truly matter. 
+If competition is for losers and excellence is mundane - we are left with a challenge that is as strategic as it is existential, as horrifying as it is liberating: identifying the details that truly matter. 
 
-Unfortunately, it is impossible to figure out those details preemptively. Life is a series of singular singular choices and singular moments - you cannot A/B test life. The only way to figure out what matters is to make direct contact with the illegible contours of reality. Competition is effective at providing legible rankings but markets, products, and people - are deeply singular. 
+Unfortunately, it is impossible to figure out those details preemptively. Life is a series of singular choices, moments, and decisions - you cannot A/B test life. The only way to figure out what matters is to make direct contact with the illegible contours of reality. Competition is effective at providing legible rankings but markets, products, and people - are deeply singular. 
 
 Don Felder’s [opening riff](https://www.youtube.com/watch?v=09839DpTctU) in Hotel California immortalized him as one of the greats. Of all the riffs, chords, and solos he ever made, and all the time he possibly spent with the guitar tinkering, playing, and producing - 2 minutes and 12 seconds of playing are what ultimately mattered. 
 
-But he didn’t know how much those seconds would matter and neither did we. In the absence of knowing which seconds will count, we are perhaps better off in making every second count - for excellence is wherever someone is striving for it.
+But he didn’t know how much *those* seconds - or any other - would matter, and neither did we. 
+
+In the absence of knowing which seconds will count, we are perhaps better off in making every second count - for excellence is wherever someone is striving for it.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/WYP9AGtLvRg?si=cXM-clFwg52_mYC0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
