@@ -9,9 +9,6 @@ Currently Reading: [The Measure of Reality, Alfred W. Crosby](https://www.amazon
 
 Inspired by [several](https://patrickcollison.com/bookshelf) [internet]  [bookshelfs], this is a list of books in my library. 
 
-
-
-
 Knowledge takes many forms, each essential in its own right. Formal knowledge - acquired through books, papers, blogs and other media - provides legible details in the path of inquiry. But visceral knowledge - acquired through direct contact with reality, often at the cost of intellectual, emotional, or physical discomfort – provides the illegible details. I strongly believe in accumulating both. I believe that no question is conclusively settled - and my library represents the questions I have asked and arrived at AN answer for.
 
 Inspired by Taleb's <a href="https://en.wikipedia.org/wiki/Antilibrary">antilibrary</a>, several books remain unfinished and are savored over time. 

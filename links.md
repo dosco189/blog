@@ -39,6 +39,7 @@ This is an evolving collection of papers, websites, blogs, videos, and other art
 * [The Myth of Sisyphus, Albert Camus](https://dbanach.com/sisyphus.htm)
 * [Story of Your Life, Ted Chiang](https://raley.english.ucsb.edu/wp-content/uploads/Reading/Chiang-story.pdf)- short story that inspired the movie [Arrival](https://www.youtube.com/watch?v=tFMo3UJ4B4g)
 * [The Inner Ring, C. S. Lewis](https://www.lewissociety.org/innerring/)
+* [On the shortness of life, Seneca](https://dn790008.ca.archive.org/0/items/SenecaOnTheShortnessOfLife/Seneca%20on%20the%20Shortness%20of%20Life.pdf)
 
 ### Talks / Lectures / Videos 
 * [Science and the Taboo of psi, Dean Radin](https://www.youtube.com/watch?v=qw_O9Qiwqew)
