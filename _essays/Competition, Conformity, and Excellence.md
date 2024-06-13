@@ -142,9 +142,9 @@ Competition soothes these anxieties by establishing shared frames of reference -
 
 Since excellence is a byproduct of qualitative differentiation, it is perhaps better to relinquish the security provided by competitive validation and embrace the illegible process of directly trying to figure things out. This is why doing is the most effective form of learning - one is forced to directly confront the illegible details.
 
-If competition is for losers and excellence is mundane - we are left with a challenge that is as strategic as it is existential, as horrifying as it is liberating: identifying the details that truly matter. 
+If competition is for losers and excellence is mundane - we are left with a challenge that is as strategic as it is existential, as horrifying as it is liberating: identifying the few details that truly matter. 
 
-Unfortunately, it is impossible to figure out those details preemptively. Life is a series of singular choices, moments, and decisions - you cannot A/B test life. The only way to figure out what matters is to make direct contact with the illegible contours of reality. Competition is effective at providing legible rankings but markets, products, and people - are deeply singular. 
+Unfortunately, it is impossible to figure out which details will come to matter preemptively. Life is a series of singular choices, moments, and decisions - you cannot A/B test life. The only way to figure out what matters is to make direct contact with the illegible contours of reality. Competition is effective at providing legible rankings but markets, products, and people - are deeply singular. 
 
 Don Felder’s [opening riff](https://www.youtube.com/watch?v=09839DpTctU) in Hotel California immortalized him as one of the greats. Of all the riffs, chords, and solos he ever made, and all the time he possibly spent with the guitar tinkering, playing, and producing - 2 minutes and 12 seconds of playing are what ultimately mattered. 
 
