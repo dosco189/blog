@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title:  How to Evaluate Startup Ideas
 date:   2021-02-05
 ---
@@ -22,8 +23,7 @@ A startup idea is not an exercise in agnostic experimentation. It is better to t
 3. **Insight**: _why_ will your experiment end up being successful? In other words, what do you know that others don’t? 
     *  Why will this solution work?
     *  What is your unfair advantage, aka “secret”? why will you win as opposed to everyone else?
-    * (Must) be related to growth, an edge that explains why you are willing to grow quickly
-      * You need one. 
+    * (Must) be related to growth, an edge that explains why you are willing to grow quickly. (You need one.) 
 
 Your Unfair Advantage. 
 
@@ -31,7 +31,7 @@ Your Unfair Advantage.
 2. **Market**: Even if you’re a small player in a market that’s growing 20%+ YoY, building even a small position will allow you to automatically grow. Unfortunately, this is also the weakest advantage a company can have. 
 3. **Product**: is your product 10X better than the competition? Is there someone who says “_oh shit”, _this is 10X better than everything I’ve seen before? You can use cost and value as levers to differentiate here. 
 4. **Customer Acquisition**: if paid acquisition is the only way to grow, you can discount that channel of growth greatly. Because you will attract competition, and worse, competition with capital, quicker. Independent acquisition paths such as word of mouth are better. Do you have an advantage that is free?
-    1. Ask yourself, how do I grow this without having to pay for it?
+   - Ask yourself, how do I grow this without having to pay for it?
 5. **Monopoly**: This is a Boolean characteristic. As your company grows, is it more difficult for you to be defeated by competitors? Do you get stronger? Examples: Companies with network effects and marketplaces. Marketplaces are often a winner take all game. What are the network/market effects? 
 
 The last part is perhaps also the most important unfair advantage you have to possess - [antifragility](https://www.wikiwand.com/en/Antifragile). Each day of growth and each additional customer should make it harder for others in the space to offer what you’re offering. 
