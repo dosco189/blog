@@ -46,6 +46,7 @@ permalink: /links/
 * [Science and the Taboo of psi, Dean Radin](https://www.youtube.com/watch?v=qw_O9Qiwqew)
 * [Human Behavioral Biology, Robert Sapolsky](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL150326949691B199)
 * [Marcus Aurelius' Meditations: The Stoic Ideal, Michael Sugrue](https://www.youtube.com/watch?v=Auuk1y4DRgk&t)
+* [How to Hack Year One](https://www.youtube.com/watch?v=icMmVzmpaik&t)
 
 ### Blogs
 * [The power of good design](https://www.vitsoe.com/us/about/good-design)
