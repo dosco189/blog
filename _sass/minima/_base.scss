@@ -135,6 +135,43 @@ a {
 
 
 /**
+ * Sharing Button
+ */
+/**
+ * Sharing Button
+ */
+ .sharing-button {
+  display: inline-block;
+  margin: 0.5em;
+  padding: 4px 12px;
+  border: 1px solid #000;
+  border-radius: 0; // make corners sharp
+  font-size: 14px;
+  color: #000;
+  background: #fff;
+  transition: all 0.2s ease;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:visited {
+      color: inherit;
+    }
+
+    &:hover {
+      color: #fff;
+    }
+  }
+
+  &:hover {
+    color: #fff;
+    background: #000;
+  }
+}
+
+
+/**
  * Blockquotes
  */
 blockquote {

@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
 title:  How to Evaluate Startup Ideas
-date:   2021-02-05
+published: true
+date:   2025-02-05
+tags: notes books
 ---
 These are my notes from a talk by Kevin Hale, founder of WuFoo and former YC partner. The original video can be [found here](https://www.youtube.com/watch?v=DOtCl5PU8F0&t).
 
