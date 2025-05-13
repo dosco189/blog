@@ -7,7 +7,7 @@ published: true
 description: "Notes from Alix Pasquet's video on starting a hedge fund"
 ---
 
-_I came across [this video](https://youtu.be/icMmVzmpaik?si=93t_aWQmwIAAFNdq) by Alix Pasquet on YouTube about how to think about the first year of starting a hedge fund._
+_I came across [this video](https://youtu.be/icMmVzmpaik?si=93t_aWQmwIAAFNdq) by Alix Pasquet on YouTube about how to think about the first year of starting a hedge fund. I'd highly recommend watching it, even if you're not planning to start a hedge fund. The advice laid out is incredibly useful in how to think about creating structural advantages for any new project._
 
 **tl;dr**
 
