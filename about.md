@@ -10,7 +10,9 @@ I spent my adolescence at a [boarding school](https://www.doonschool.com/) in In
 
 I studied philosophy and economics at UBC, and spent time outside the classroom working for a financial media company, taking courses for other people, and leading product at an AI startup. I’m curious about many things - from art and science to existentialism and credit default swaps.
 
-I currently work at [Gemic](https://gemic.com/) - a growth strategy firm where I get to ask and answer interesting questions about people, products, and markets. If economics suggests that people maximize “utility”, my experience at Gemic has taught me that they define it very differently.
+Most recently, I spent my time at [Gemic](https://gemic.com/) - a growth strategy firm where I got to ask and answer interesting questions about people, products, and markets. If economics suggests that people maximize “utility”, my experience at Gemic has taught me that they define it very differently. You can learn more about my work [here](https://work.arthgupta.com/). 
+
+Presently, I work with select clients on brand, strategy, and GTM projects. 
 
 I'm based out of Toronto, but you can find me [online](https://x.com/arthgupta).
 
