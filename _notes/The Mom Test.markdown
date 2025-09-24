@@ -3,6 +3,7 @@ layout: post
 title: "The Mom Test: Notes"
 date:   2024-08-06 
 tags: notes books
+published: true
 description: "Book notes from 'The Mom Test'"
 ---
 

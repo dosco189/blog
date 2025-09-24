@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: writing
 permalink: /essays/
 ---
-
-<h2>Essays</h2>
 {% assign essays_by_year = site.essays | group_by_exp: "essay", "essay.date | date: '%Y'" | reverse %}
 {% for year in essays_by_year %}
   <h2>{{ year.name }}</h2>

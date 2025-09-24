@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: notes
 permalink: /notes/
 ---
-<h2>Notes</h2>
 {% assign notes_by_year = site.notes | group_by_exp: "note", "note.date | date: '%Y'" | reverse %}
 {% for year in notes_by_year %}
   <h2>{{ year.name }}</h2>

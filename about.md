@@ -24,4 +24,5 @@ This website is an experiment - I built it from scratch using [jekyll](https://j
 I intend to use this space as a notebook, documenting my learnings about ideas I find interesting. The contents are fallible - so I welcome your feedback.
 
 It should be obvious but for legal reasons I will explicitly state:
- <div class="quote" ><p>The opinions, views, and work presented on this website are solely those of Arth Gupta and do not reflect the opinions or views of any current or previous employers, organizations, or affiliates. The content provided on this website is for informational purposes only and should not be construed as professional advice.</p></div>
+ <div class="quote" >
+ <p>The opinions, views, and work presented on this website are solely those of Arth Gupta and do not reflect the opinions or views of any current or previous employers, organizations, or affiliates. The content provided on this website is for informational purposes only and should not be construed as professional advice.</p></div>
