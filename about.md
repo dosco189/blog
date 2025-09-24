@@ -1,6 +1,7 @@
 ---
 layout: page
 title: about
+description: About Arth Gupta — background, interests, and what this site is about.
 permalink: /about/
 ---
 

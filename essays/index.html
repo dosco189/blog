@@ -1,7 +1,9 @@
 ---
 layout: default
+title: writing
+permalink: /essays/
 ---
-<!-- This essays page template is for the page that list all posts in the essays folder, not how each individual notes page is generated-->
+
 <h2>Essays</h2>
 {% assign essays_by_year = site.essays | group_by_exp: "essay", "essay.date | date: '%Y'" | reverse %}
 {% for year in essays_by_year %}

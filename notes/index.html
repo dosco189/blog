@@ -1,0 +1,18 @@
+---
+layout: default
+title: notes
+permalink: /notes/
+---
+<h2>Notes</h2>
+{% assign notes_by_year = site.notes | group_by_exp: "note", "note.date | date: '%Y'" | reverse %}
+{% for year in notes_by_year %}
+  <h2>{{ year.name }}</h2>
+  <ul>
+    {% assign notes_in_year = year.items | sort: 'note.date' | reverse %}
+    {% for note in notes_in_year %}
+      <li>
+        {{ note.date | date: "%B %d" }} // <a href="{{ note.url }}">{{ note.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}

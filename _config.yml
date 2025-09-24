@@ -19,22 +19,27 @@
 # in the templates via {{ site.myvariable }}.
 
 title: arth gupta
-email: arth@overthinker.in
+email: arthgupta7@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
+  Arth Gupta's personal website - a collection of essays, notes, quotes, and thoughts on philosophy, economics, and more.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://arthgupta.com" # the base hostname & protocol for your site
 twitter_username: arthgupta
+lang: en
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 
-#This is the section that will change which items will be included in the navigation menu. 
+# This controls which items are included in the top navigation (desktop and mobile hamburger).
 header_pages:
- -
+  - notes/index.html
+  - essays/index.html
+  - about.md
 
 collections:
   essays:
