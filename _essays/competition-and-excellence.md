@@ -2,8 +2,11 @@
 layout: post
 title:  "Competition, Conformity, and Excellence"
 date:   2024-06-03
-tags: essay competition startups ethnography
-description: On escaping the dogma of competition and rethinking the constituents of excellence.
+description: "Discover how competition creates conformity and distorts true excellence. Learn why legible rankings obscure the mundane processes that produce real achievement in business and life."
+excerpt: "Competition is a dogma that infects how we think about the world. While it provides clear rankings, it distorts the deeper, qualitative processes that create genuine excellence."
+tags: [competition-strategy, business-philosophy, startup-mindset, excellence, conformity, ethnogrpahy, life-advice]
+keywords: "competition vs excellence, startup philosophy, business strategy, conformity in business, achieving excellence, competitive advantage, ethnography"
+author: "Arth Gupta"
 ---
 Competition is a dogma that infects the way we think about the world.
 

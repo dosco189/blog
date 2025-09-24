@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  How to Evaluate Startup Ideas
+title:  "How to Evaluate Startup Ideas"
 published: true
 date:   2025-02-05
-tags: notes books
+description: "Learn Kevin Hale's framework for evaluating startup ideas. Discover why startups equal growth and how to build hypotheses around problem, solution, and insight for rapid scaling."
+excerpt: "Notes from Kevin Hale's talk on startup evaluation. Startups equal growth, and great ideas are hypotheses about why your company will grow quickly through problem-solution-insight alignment."
+tags: [startup-ideas, business-strategy, entrepreneurship, growth-strategy, startup-evaluation]
+keywords: "startup ideas evaluation, Kevin Hale startup advice, startup growth strategy, YC startup framework, startup hypothesis testing"
+author: "Arth Gupta"
 ---
 These are my notes from a talk by Kevin Hale, founder of WuFoo and former YC partner. The original video can be [found here](https://www.youtube.com/watch?v=DOtCl5PU8F0&t).
 

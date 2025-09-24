@@ -58,7 +58,7 @@ $on-medium: 900px !default;
     float: right;
     border: none;
     background-color: inherit;
-    font-weight: 600;
+    font-weight: 500;
 
     label[for="nav-trigger"],
     #nav-trigger {
@@ -182,7 +182,7 @@ $on-medium: 900px !default;
             color: $text-color;
             line-height: $base-line-height;
             text-decoration: none;
-            font-weight: 600;
+            font-weight: 500;
             letter-spacing: 0.02em;
 
             &:hover {
@@ -211,15 +211,41 @@ body {
     background-color:#FFFDFD;
     color:#2C1E18;
     font-family: 'Inter', sans-serif;
-    font-weight: 300;
+    font-weight: 350;
     line-height: 1.5;
     letter-spacing: 0.01em;
+    padding-bottom: 50px; // Space for fixed footer
 }
 
+// Fixed footer styling
+.site-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: #FFFDFD;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.05);
+    padding: 8px 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
 
-footer{
-    padding: 15px;
+    .wrapper {
+        text-align: center;
+    }
+
+    a {
+        color: #3C6E71;
+        
+        &:hover {
+            color: #1B120D;
+        }
+    }
 }
+
 
 a {
     color: #3C6E71;
@@ -246,8 +272,9 @@ a:focus-visible {
     outline-offset: 3px;
 }
 
+// Consistent spacing for all elements
 p {
-    margin-bottom: 1.2rem;
+    margin-bottom: 1rem;
 }
 
 .flex-container-image {
@@ -325,3 +352,287 @@ blockquote > *,
         outline: none !important;
     }
 }
+
+// Enhanced Typography Hierarchy with Uniform Spacing
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+// Override Minima's default spacing in post content
+.post-content {
+    h1, h2, h3, h4, h5, h6 {
+        margin-top: 1rem;
+        margin-bottom: 0.2rem;
+    }
+    
+    p {
+        margin-bottom: 1rem;
+    }
+    
+    // Ensure consistent spacing for all block elements
+    ul, ol, blockquote, pre {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+}
+
+// Screen reader only
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+// 404 Error page
+.error-container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+    
+    h1 {
+        margin: 30px 0;
+        font-size: 4em;
+        line-height: 1;
+        letter-spacing: -1px;
+    }
+}
+
+// Substack embed
+.substack-embed {
+    border: 1px solid #EEE;
+    background: white;
+}
+
+// Quote images
+.quote-image {
+    width: 100%;
+    height: 100%;
+}
+
+// Footnotes styling
+.footnotes {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid $border-color-01;
+    font-size: 0.9rem;
+    position: relative;
+    
+    // Add "References" header using CSS
+    &::before {
+        content: "References";
+        display: block;
+        font-size: 1.25rem;
+        font-weight: 500;
+        color: $text-color;
+        margin-bottom: 1rem;
+        letter-spacing: 0.02em;
+    }
+    
+    // Remove extra spacing before footnotes list
+    ol {
+        padding-left: 1.2rem;
+        margin-top: 0;
+    }
+    
+    li {
+        margin-bottom: 0.8rem;
+        line-height: 1.4;
+    }
+}
+
+// Remove spacing from manual "References" heading before footnotes
+h3 + .footnotes {
+    margin-top: 1rem; // Reduce gap when preceded by heading
+}
+
+// Footnote links in text
+a[href^="#fn:"],
+a[href^="#fnref:"] {
+    text-decoration: none;
+    font-weight: 500;
+    color: #3C6E71;
+    position: relative;
+    
+    &:hover {
+        color: #1B120D;
+    }
+}
+
+// JavaScript-powered footnote tooltips
+.footnote-tooltip {
+    position: fixed;
+    background: #3C6E71;
+    color: #FFFDFD;
+    padding: 12px 12px;
+    border-radius: 8px;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    max-width: 320px;
+    z-index: 1000;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.2s ease, visibility 0.2s ease;
+    pointer-events: none;
+    
+    // Arrow pointing down (default)
+    &::after {
+        content: '';
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        transform: translateX(-50%);
+        border: 6px solid transparent;
+        border-top-color: #3C6E71;
+    }
+    
+    // Arrow pointing up (when tooltip is below)
+    &.below::after {
+        top: -12px;
+        border-top-color: transparent;
+        border-bottom-color: #3C6E71;
+    }
+    
+    // Show tooltip
+    &.visible {
+        opacity: 1;
+        visibility: visible;
+    }
+    
+    // Style links inside tooltips
+    a {
+        color: #FFFDFD;
+        text-decoration: underline;
+        
+        &:hover {
+            color: #FFFDFD;
+        }
+    }
+}
+
+// Footnote return links
+.reversefootnote {
+    text-decoration: none;
+    font-weight: normal;
+    margin-left: 0.5rem;
+    
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+// === READING ENHANCEMENTS ===
+
+// Reading progress bar (left side)
+.reading-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 0%;
+    background: #3C6E71;
+    z-index: 1000;
+    transition: height 0.1s ease;
+}
+
+// Floating Table of Contents (Left Sidebar)
+.table-of-contents.floating-toc {
+    position: fixed;
+    top: 120px; // Below header
+    left: 20px;
+    width: 240px;
+    max-height: calc(100vh - 200px);
+    overflow-y: auto;
+    background: rgba(255, 253, 253, 0.95);
+    border: 1px solid rgba(60, 110, 113, 0.2);
+    border-radius: 8px;
+    padding: 1.2rem;
+    z-index: 100;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateX(-20px);
+    transition: all 0.3s ease;
+    backdrop-filter: blur(10px);
+    
+    &.visible {
+        opacity: 1;
+        visibility: visible;
+        transform: translateX(0);
+    }
+    
+    .toc-title {
+        font-weight: 500;
+        font-size: 0.9rem;
+        margin-bottom: 1rem;
+        color: $text-color;
+        letter-spacing: 0.02em;
+        border-bottom: 1px solid rgba(60, 110, 113, 0.2);
+        padding-bottom: 0.5rem;
+    }
+    
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    
+    li {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .toc-link {
+        display: block;
+        padding: 0.3rem 0;
+        color: #3C6E71;
+        text-decoration: none;
+        font-size: 0.8rem;
+        line-height: 1.3;
+        transition: all 0.2s ease;
+        border-left: 2px solid transparent;
+        padding-left: 0.5rem;
+        margin-left: -0.5rem;
+        
+        &:hover {
+            color: #1B120D;
+            text-decoration: none;
+            border-left-color: rgba(60, 110, 113, 0.3);
+        }
+        
+        &.active {
+            color: #1B120D;
+            font-weight: 500;
+            border-left-color: #3C6E71;
+            background: rgba(60, 110, 113, 0.05);
+        }
+    }
+    
+    // Indent sub-headings
+    .toc-h3 .toc-link {
+        padding-left: 1.5rem;
+        margin-left: -0.5rem;
+        font-size: 0.75rem;
+    }
+    
+    .toc-h4 .toc-link {
+        padding-left: 2.5rem;
+        margin-left: -0.5rem;
+        font-size: 0.7rem;
+    }
+    
+    // Hide on smaller screens
+    @media (max-width: 1200px) {
+        display: none;
+    }
+}
+
+

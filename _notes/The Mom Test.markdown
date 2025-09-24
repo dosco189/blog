@@ -1,10 +1,13 @@
 ---
 layout: post
 title: "The Mom Test: Notes"
-date:   2024-08-06 
-tags: notes books
+date: 2024-08-06 
 published: true
-description: "Book notes from 'The Mom Test'"
+description: "Learn customer interview techniques from 'The Mom Test' book. Discover how to ask unbiased questions, excavate truth from conversations, and avoid leading your research subjects."
+excerpt: "Notes from 'The Mom Test' - a guide to better customer conversations. Key insight: learning is excavation, and the right questions help you mine buried truths without bias."
+tags: [customer-research, user-interviews, product-research, startup-validation, book-notes]
+keywords: "The Mom Test book notes, customer interviews, user research, startup validation, product research, customer development"
+author: "Arth Gupta"
 ---
 
 _These are my notes from the book "The Mom Test". I read it after having worked in research for a while, and found it a concise guide to getting the most out of user/customer conversations. Much of what we can learn about a person depends on the questions we ask. Stay curious!_

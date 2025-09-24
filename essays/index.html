@@ -5,12 +5,11 @@ permalink: /essays/
 ---
 {% assign essays_by_year = site.essays | group_by_exp: "essay", "essay.date | date: '%Y'" | reverse %}
 {% for year in essays_by_year %}
-  <h2>{{ year.name }}</h2>
   <ul>
     {% assign essays_in_year = year.items | sort: 'essay.date' | reverse %}
     {% for essay in essays_in_year %}
       <li>
-        {{ essay.date | date: "%B %d" }} // <a href="{{ essay.url }}">{{ essay.title }}</a>
+       <a href="{{ essay.url }}">{{ essay.title }}</a> // {{ essay.date | date: "%B %d, %Y" }}
       </li>
     {% endfor %}
   </ul>

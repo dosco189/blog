@@ -2,9 +2,12 @@
 layout: post
 title: "How to Start a Hedge Fund"
 date: 2025-05-11
-tags: notes videos
 published: true
-description: "Notes from Alix Pasquet's video on starting a hedge fund"
+description: "Learn Alix Pasquet's framework for starting a hedge fund in year one. Discover how to create structural advantages, build inevitable success conditions, and capitalize on market opportunities."
+excerpt: "Notes from Alix Pasquet's video on hedge fund strategy. Key insight: create structures that make your goals inevitable and capitalize when others can't put capital to work."
+tags: [hedge-funds, investment-strategy, startup-strategy, structural-advantages, finance]
+keywords: "hedge fund startup, Alix Pasquet hedge fund, investment strategy, structural advantages, finance entrepreneurship, hedge fund year one"
+author: "Arth Gupta"
 ---
 
 _I came across [this video](https://youtu.be/icMmVzmpaik?si=93t_aWQmwIAAFNdq) by Alix Pasquet on YouTube about how to think about the first year of starting a hedge fund. I'd highly recommend watching it, even if you're not planning to start a hedge fund. The advice laid out is incredibly useful in how to think about creating structural advantages for any new project._

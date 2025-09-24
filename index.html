@@ -2,6 +2,9 @@
 layout: home
 description: Arth Gupta’s personal site — essays, notes, quotes, and links I find interesting.
 ---
+<h1 class="sr-only">Arth Gupta's personal website and blog</h1>
+
+
 
 <p>Hello! This website is somewhere between a blog and a notebook. In it I attempt to capture evolving ideas, notes, and bookmarks that capture my curiosities. You can browse some <a href="/links/">stuff I find interesting</a> or learn more <a href="{{ site.baseurl }}/about/">about me here</a>. I enjoy making and meeting friends on the internet - so if you'd like to chat, please <a href="mailto:arthgupta7@gmail.com">reach out</a>.</p>
 
@@ -17,7 +20,7 @@ description: Arth Gupta’s personal site — essays, notes, quotes, and links I
     {% assign essays_posts = site.essays | sort: 'date' | reverse %}
     {% for post in essays_posts %}
     <li>
-        <a href="{{ post.url }}">{{ post.title }} </a>// {{ post.date | date: "%B %d, '%y" }}
+        <a href="{{ post.url }}">{{ post.title }} </a>// {{ post.date | date: "%D" }}
     </li>
     {% endfor %}
 </ul>
@@ -26,7 +29,7 @@ description: Arth Gupta’s personal site — essays, notes, quotes, and links I
 <ul>
     {% assign notes_posts = site.notes | sort: 'date' | reverse %}
     {% for post in notes_posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> // {{ post.date | date: "%B %d, '%y" }}</li>
+    <li><a href="{{ post.url }}">{{ post.title }}</a> // {{ post.date | date: "%D" }}</li>
     {% endfor %}
 </ul>
 <br>

@@ -6,7 +6,9 @@ permalink: /links/
 
 (WIP) This is an evolving collection of papers, websites, blogs, videos, and other artefacts of knowledge that have challenged, clarified, or provoked my thinking. 
 
-<div class="quote" >An Ask: I'd love to read the blogs, papers, videos, or books that have had a major impact in the way you see the world. If you have any recommendations, please do send them <a href="mailto:arthgupta7@gmail.com?subject=Recommendations">my way</a>.
+<div> 
+<div class="quote"><span>I'd love to read the blogs, papers, videos, or books that have had a major impact in the way you see the world. If you have any recommendations, please do send them <a href="mailto:arthgupta7@gmail.com?subject=Recommendations">my way</a>.
+</span></div>
 </div>
 
 ### Papers
