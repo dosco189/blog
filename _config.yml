@@ -36,10 +36,11 @@ plugins:
 
 
 # This controls which items are included in the top navigation (desktop and mobile hamburger).
-header_pages:
-  - notes/index.html
-  - essays/index.html
-  - about.md
+minima:
+  nav_pages:
+    - about.md
+    - essays/index.html
+    - notes/index.html
 
 collections:
   essays:

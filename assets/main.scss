@@ -15,19 +15,19 @@ $on-medium: 900px !default;
 .site-header {
     position: relative;
     width: 100%;
-    min-height: $spacing-unit * 1.865;
+    min-height: $spacing-unit * 1.965;
     line-height: $base-line-height * $base-font-size * 2.25;
-    background-color: $background-color;
+    background-color: #FFFDFD;
     border-top: 5px solid $border-color-03;
-    border-bottom: 1px solid $border-color-01;
 }
 
 .site-title {
     @include relative-font-size(1.625);
-    font-weight: 300;
-    letter-spacing: -1px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
     margin-bottom: 0;
     float: left;
+    text-decoration: none;
 
     @include media-query($on-palm) {
         padding-right: 45px;
@@ -36,6 +36,21 @@ $on-medium: 900px !default;
     &,
     &:visited {
         color: $site-title-color;
+        text-decoration: none;
+    }
+
+    &:hover {
+        color: $site-title-color;
+        text-decoration: none;
+        background: none;
+        outline: none;
+    }
+
+    &:focus {
+        color: $site-title-color;
+        text-decoration: none;
+        background: none;
+        outline: none;
     }
 }
 
@@ -43,6 +58,7 @@ $on-medium: 900px !default;
     float: right;
     border: none;
     background-color: inherit;
+    font-weight: 600;
 
     label[for="nav-trigger"],
     #nav-trigger {
@@ -51,6 +67,28 @@ $on-medium: 900px !default;
 
     .nav-item {
         color: $text-color;
+        text-decoration: none;
+        font-weight: 500;
+        letter-spacing: 0.02em;
+
+        &:hover {
+            color: $text-color;
+            text-decoration: none;
+            background: none;
+            outline: none;
+        }
+
+        &:visited {
+            color: $text-color;
+            text-decoration: none;
+        }
+
+        &:focus {
+            color: $text-color;
+            text-decoration: none;
+            background: none;
+            outline: none;
+        }
 
         &:not(:last-child) {
             margin-right: $spacing-unit * 0.5;
@@ -61,7 +99,7 @@ $on-medium: 900px !default;
         position: absolute;
         top: 9px;
         right: $spacing-unit * 0.6;
-        background-color: $background-color;
+        background-color: #FFFDFD;
         border: 1px solid $border-color-01;
         border-radius: 5px;
         text-align: right;
@@ -79,12 +117,12 @@ $on-medium: 900px !default;
             width: 36px;
             height: 26px;
             line-height: 0;
-            padding-top: 18px;
+            padding-top: 10px;
             text-align: center;
 
-            &::before {
-                font-family: "Font Awesome 7 Free";
-                font-weight: 900;
+            > svg {
+                width: 18px;
+                height: 15px;
             }
 
             > svg path {
@@ -93,33 +131,46 @@ $on-medium: 900px !default;
         }
 
         #nav-trigger {
-            ~ label[for=nav-trigger] .menu-icon {
-                &::before {
-                    content: "\f0c9";
-                    font-size: 1.25em;
-                }
-            }
-
             ~ .nav-items {
                 clear: both;
                 display: none;
             }
 
             &:checked {
-                ~ label[for=nav-trigger] .menu-icon {
-                    &::before {
-                        content: "\f00d";
-                        font-size: 1.5em;
-                    }
-                }
-
                 ~ .nav-items {
                     display: block;
                     padding-bottom: 5px;
+                    text-align: right;
 
                     .nav-item {
-                        margin-left: 20px;
-                        padding: 5px 10px;
+                        display: block;
+                        margin: 0;
+                        padding: 8px 20px;
+                        text-decoration: none;
+                        font-weight: 500;
+                        letter-spacing: 0.02em;
+                        text-align: right;
+                        width: 100%;
+                        box-sizing: border-box;
+
+                        &:hover {
+                            color: $text-color;
+                            text-decoration: none;
+                            background: none;
+                            outline: none;
+                        }
+
+                        &:visited {
+                            color: $text-color;
+                            text-decoration: none;
+                        }
+
+                        &:focus {
+                            color: $text-color;
+                            text-decoration: none;
+                            background: none;
+                            outline: none;
+                        }
                     }
                 }
             }
@@ -130,6 +181,28 @@ $on-medium: 900px !default;
             padding: 5px 0;
             color: $text-color;
             line-height: $base-line-height;
+            text-decoration: none;
+            font-weight: 600;
+            letter-spacing: 0.02em;
+
+            &:hover {
+                color: $text-color;
+                text-decoration: none;
+                background: none;
+                outline: none;
+            }
+
+            &:visited {
+                color: $text-color;
+                text-decoration: none;
+            }
+
+            &:focus {
+                color: $text-color;
+                text-decoration: none;
+                background: none;
+                outline: none;
+            }
         }
     }
 }
