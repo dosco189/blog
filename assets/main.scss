@@ -18,7 +18,7 @@ $on-medium: 900px !default;
     min-height: $spacing-unit * 1.965;
     line-height: $base-line-height * $base-font-size * 2.25;
     background-color: #FFFDFD;
-    border-top: 5px solid $border-color-03;
+    border-top: 5px solid #3C6E71;
 }
 
 .site-title {
@@ -281,30 +281,47 @@ blockquote > *,
 }
 
 .sharing-button {
-    display: inline-flex;
-    background-color: #FFFFFF;
-    color: #2C1E18;
-    padding: 5px 15px;
-    border-radius: 7px;
-    text-align: center;
-    transition: background-color 0.3s, color 0.3s;
-    border: 1px solid #C99E88;
+    display: inline-block;
     margin: 10px 0;
+    border: none !important;
+    background: none !important;
+    padding: 0 !important;
 }
 
 .sharing-button a {
-    text-decoration: none;
-    color: inherit;
-    display: inherit;
-    height: 100%;
-    width: 100%;
-}
+    display: inline-block;
+    background-color: #3C6E71 !important;
+    color: #FFFDFD !important;
+    padding: 5px 15px;
+    border-radius: 7px;
+    text-align: center;
+    font-weight: 500;
+    text-decoration: none !important;
+    user-select: none;
+    border: none !important;
 
-.sharing-button:hover {
-    background-color: #2C1E18;
-    color: #FFE2D6;
-}
+    &:hover {
+        background-color: #1B120D !important;
+        color: #FFFDFD !important;
+        text-decoration: none !important;
+    }
 
-.sharing-button:hover a {
-    color: #FFE2D6;
+    &:visited {
+        background-color: #3C6E71 !important;
+        color: #FFFDFD !important;
+        text-decoration: none !important;
+    }
+
+    &:visited:hover {
+        background-color: #1B120D !important;
+        color: #FFFDFD !important;
+        text-decoration: none !important;
+    }
+
+    &:focus {
+        background-color: #3C6E71 !important;
+        color: #FFFDFD !important;
+        text-decoration: none !important;
+        outline: none !important;
+    }
 }
